@@ -1,8 +1,13 @@
 Next Steps:
-* make mock design
+* Make mock design
   * Simple card layout
   * 1 Header with 1 button for sidebar
-* finalize
+* Make html and css (using templates)
+* Test publish the app to make sure that it works.
+* Figure out how to scrape the data for the backend
+* Create an API layer with a mongodb
+* Integrate the scraper with the database
+* Integrate the API with the frontend
 
 Design principles:
 * bright and colorful
