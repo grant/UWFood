@@ -1,7 +1,8 @@
 Next Steps:
 * Make mock design
   * Simple card layout
-  * 1 Header with 1 button for sidebar
+  * 1 Header with 1 button for full page menu
+  * DO NOT MAKE A SIDEBAR. Instead go full screen with something that comes on top. Bleed the edge.
 * Make html and css (using templates)
 * Test publish the app to make sure that it works.
 * Figure out how to scrape the data for the backend
